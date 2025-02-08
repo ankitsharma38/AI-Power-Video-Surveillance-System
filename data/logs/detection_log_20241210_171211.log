@@ -1,0 +1,23 @@
+2024-12-10 17:12:25,435 - WARNING - Blacklisted person detected: Ankit Sharma
+2024-12-10 17:13:18,916 - INFO - Unknown person detected.
+2024-12-10 17:13:19,154 - INFO - Weapons detected: [(524, 106, 640, 480, 0.5190876126289368)]
+2024-12-10 17:13:20,486 - INFO - Unknown person detected.
+2024-12-10 17:13:20,696 - INFO - Weapons detected: [(525, 112, 640, 480, 0.5723244547843933)]
+2024-12-10 17:13:23,826 - INFO - Weapons detected: [(525, 94, 640, 480, 0.5119551420211792)]
+2024-12-10 17:13:26,665 - INFO - Weapons detected: [(525, 102, 640, 480, 0.5028249621391296)]
+2024-12-10 17:13:28,722 - INFO - Weapons detected: [(526, 100, 640, 480, 0.5425530076026917)]
+2024-12-10 17:13:30,028 - INFO - Unknown person detected.
+2024-12-10 17:13:32,971 - INFO - Unknown person detected.
+2024-12-10 17:13:34,492 - INFO - Unknown person detected.
+2024-12-10 17:13:34,703 - INFO - Weapons detected: [(526, 100, 640, 480, 0.533863365650177)]
+2024-12-10 17:13:40,121 - INFO - Weapons detected: [(0, 0, 637, 479, 0.5823861956596375)]
+2024-12-10 17:13:40,787 - INFO - Weapons detected: [(8, 0, 409, 480, 0.6935133337974548)]
+2024-12-10 17:13:41,512 - INFO - Weapons detected: [(0, 0, 636, 480, 0.5102881193161011)]
+2024-12-10 17:13:42,810 - INFO - Unknown person detected.
+2024-12-10 17:13:44,401 - INFO - Unknown person detected.
+2024-12-10 17:13:45,889 - INFO - Unknown person detected.
+2024-12-10 17:13:46,122 - INFO - Weapons detected: [(358, 0, 409, 480, 0.5243237614631653)]
+2024-12-10 17:13:47,486 - INFO - Unknown person detected.
+2024-12-10 17:13:48,985 - INFO - Unknown person detected.
+2024-12-10 17:13:53,937 - INFO - User pressed 'q' to exit.
+2024-12-10 17:13:54,208 - INFO - Program terminated successfully.

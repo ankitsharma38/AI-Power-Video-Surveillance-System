@@ -1,0 +1,31 @@
+2024-12-11 08:57:45,618 - INFO - Processing video file: data/input/mee.mp4
+2024-12-11 08:57:50,079 - WARNING - Blacklisted person detected: Ankit Sharma
+2024-12-11 08:59:41,089 - INFO - Weapons detected: [(1052, 187, 1280, 680, 0.6952691674232483)]
+2024-12-11 09:01:47,157 - INFO - Unknown person detected.
+2024-12-11 09:01:49,851 - INFO - Unknown person detected.
+2024-12-11 09:01:52,374 - INFO - Unknown person detected.
+2024-12-11 09:01:54,891 - INFO - Unknown person detected.
+2024-12-11 09:01:57,439 - INFO - Unknown person detected.
+2024-12-11 09:01:59,916 - INFO - Unknown person detected.
+2024-12-11 09:02:02,610 - INFO - Unknown person detected.
+2024-12-11 09:02:05,134 - INFO - Unknown person detected.
+2024-12-11 09:02:07,672 - INFO - Unknown person detected.
+2024-12-11 09:02:10,125 - INFO - Unknown person detected.
+2024-12-11 09:02:14,852 - INFO - Unknown person detected.
+2024-12-11 09:02:17,548 - INFO - Unknown person detected.
+2024-12-11 09:02:20,061 - INFO - Unknown person detected.
+2024-12-11 09:02:22,549 - INFO - Unknown person detected.
+2024-12-11 09:02:25,018 - INFO - Unknown person detected.
+2024-12-11 09:02:27,481 - INFO - Unknown person detected.
+2024-12-11 09:02:29,944 - INFO - Unknown person detected.
+2024-12-11 09:02:32,413 - INFO - Unknown person detected.
+2024-12-11 09:02:34,879 - INFO - Unknown person detected.
+2024-12-11 09:02:37,355 - INFO - Unknown person detected.
+2024-12-11 09:02:39,834 - INFO - Unknown person detected.
+2024-12-11 09:02:42,335 - INFO - Unknown person detected.
+2024-12-11 09:02:44,801 - INFO - Unknown person detected.
+2024-12-11 09:02:47,288 - INFO - Unknown person detected.
+2024-12-11 09:02:50,296 - INFO - Unknown person detected.
+2024-12-11 09:02:55,547 - INFO - Unknown person detected.
+2024-12-11 09:03:28,625 - INFO - User pressed 'q' to exit.
+2024-12-11 09:03:28,641 - INFO - Program terminated successfully.

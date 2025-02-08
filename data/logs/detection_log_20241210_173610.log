@@ -1,0 +1,29 @@
+2024-12-10 17:36:32,112 - INFO - Unknown person detected.
+2024-12-10 17:36:33,477 - INFO - Unknown person detected.
+2024-12-10 17:36:34,871 - INFO - Unknown person detected.
+2024-12-10 17:36:36,233 - WARNING - Blacklisted person detected: Ankit Sharma
+2024-12-10 17:36:49,596 - INFO - Weapons detected: [(25, 107, 246, 480, 0.816775918006897)]
+2024-12-10 17:36:51,498 - INFO - Unknown person detected.
+2024-12-10 17:36:51,713 - INFO - Weapons detected: [(4, 149, 223, 480, 0.7230767607688904)]
+2024-12-10 17:36:53,611 - INFO - Unknown person detected.
+2024-12-10 17:36:56,585 - INFO - Weapons detected: [(22, 0, 336, 479, 0.5593152046203613)]
+2024-12-10 17:36:58,497 - INFO - Unknown person detected.
+2024-12-10 17:36:58,721 - INFO - Weapons detected: [(2, 0, 333, 478, 0.8106666207313538)]
+2024-12-10 17:37:00,629 - INFO - Unknown person detected.
+2024-12-10 17:37:00,845 - INFO - Weapons detected: [(0, 2, 627, 476, 0.8129097819328308), (5, 0, 441, 382, 0.5112643241882324)]
+2024-12-10 17:37:02,021 - INFO - Unknown person detected.
+2024-12-10 17:37:02,234 - INFO - Weapons detected: [(0, 1, 455, 435, 0.786329448223114)]
+2024-12-10 17:37:03,413 - INFO - Unknown person detected.
+2024-12-10 17:37:03,619 - INFO - Weapons detected: [(0, 0, 314, 476, 0.7333368062973022)]
+2024-12-10 17:37:05,520 - INFO - Unknown person detected.
+2024-12-10 17:37:09,009 - INFO - Unknown person detected.
+2024-12-10 17:37:11,131 - INFO - Unknown person detected.
+2024-12-10 17:37:13,252 - INFO - Unknown person detected.
+2024-12-10 17:37:30,114 - INFO - Weapons detected: [(467, 91, 639, 480, 0.5056378841400146)]
+2024-12-10 17:37:39,783 - INFO - Weapons detected: [(184, 183, 352, 309, 0.7836386561393738)]
+2024-12-10 17:37:41,170 - INFO - Weapons detected: [(0, 149, 155, 268, 0.9088099002838135), (99, 175, 288, 304, 0.8821679949760437)]
+2024-12-10 17:37:42,555 - INFO - Weapons detected: [(85, 183, 282, 321, 0.8842536807060242), (0, 160, 145, 292, 0.8494689464569092)]
+2024-12-10 17:37:43,929 - INFO - Weapons detected: [(79, 184, 277, 325, 0.87871253490448), (0, 162, 136, 299, 0.8654068112373352)]
+2024-12-10 17:37:45,302 - INFO - Weapons detected: [(128, 186, 278, 320, 0.7129802703857422)]
+2024-12-10 17:37:57,038 - INFO - User pressed 'q' to exit.
+2024-12-10 17:37:57,304 - INFO - Program terminated successfully.

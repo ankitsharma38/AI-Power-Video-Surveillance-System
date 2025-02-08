@@ -1,0 +1,11 @@
+# Dataset paths
+train: C:/Users/Stranger/Desktop/weapon-detection-system/data/images/train  # Path to training images
+val: C:/Users/Stranger/Desktop/weapon-detection-system/data/images/val      # Path to validation images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: gun
+  1: knife
